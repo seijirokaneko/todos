@@ -55,7 +55,7 @@ body::after {
     transform: translate(-50%, -50%);
     width: 30px;
     height: 30px;
-    background-image: url(../image/check.svg);
+    background-image: url(img/check.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
